@@ -6,7 +6,7 @@ This Flask application detects text in uploaded images using the EasyOCR library
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/text-recognition-flask.git
+git clone https://github.com/captain-sal/text-recognition-flask.git
 
 # Navigate to the project directory
 cd text-recognition-flask
