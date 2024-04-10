@@ -21,11 +21,10 @@ python app.py
 
 ## Usage
 
-1. Open a web browser and go to :  **`http://localhost:5000`**.
+1. Open a web browser and go to : **`http://localhost:5000`**.
 2. Click on the **"Choose File"** button to select an image file containing text.
 3. Click the **"Upload"** button to upload the image.
 4. The application will process the image, detect text using EasyOCR, and display the results on the web page.
-
 
 ## Dependencies
 
@@ -34,3 +33,6 @@ python app.py
 - OpenCV: An open-source computer vision and machine learning software library.
 - NumPy: A library for numerical computing in Python.
 
+## Deployed Site
+
+You can check the website deployed at Render [here.](https://text-detection-and-recognition-dip-beu6.onrender.com)
